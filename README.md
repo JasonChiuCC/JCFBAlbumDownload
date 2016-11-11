@@ -10,41 +10,46 @@ If you have any problem when using this extension,please feel free to contact me
 
 ## Usag
 
-First you need to setting chrome's download location and unclick `ask where to save each file before downloading`
+(1) First you need to setting chrome's download location and unclick `ask where to save each file before downloading`
 
 [![image3](https://github.com/JasonChiuCC/JCFBAlbumDownload/blob/master/image/image3.png "image3")](https://github.com/JasonChiuCC/JCFBAlbumDownload)
 
-[Download Extension](https://chrome.google.com/webstore/detail/jc-facebook-album-downloa/jeponbopcmlgdnbkdmpnbhggmbhcpojp)
+(2) [Download Extension](https://chrome.google.com/webstore/detail/jc-facebook-album-downloa/jeponbopcmlgdnbkdmpnbhggmbhcpojp) and install
 
 You will see the icon on the top of chrome.
 
 [![image1](https://github.com/JasonChiuCC/JCFBAlbumDownload/blob/master/image/image1.png "image1")](https://github.com/JasonChiuCC/JCFBAlbumDownload)
 
-Press the icon to Login facebook and you will see the success page, then you can close the page.
+(3) Press the icon to Login facebook and you will see the success page, then you can close the page.
 
 [![image2](https://github.com/JasonChiuCC/JCFBAlbumDownload/blob/master/image/image2.png "image1")](https://github.com/JasonChiuCC/JCFBAlbumDownload)
 
+(4) Go to the facebook `album page`
+
+For example go to Mark Zuckerberg page -> photos -> albums (In this page,dont scroll down)
+
+Then press the icon and `Download Personal Album` it will starting download
+
+[![image4](https://github.com/JasonChiuCC/JCFBAlbumDownload/blob/master/image/image4.png "image4")](https://github.com/JasonChiuCC/JCFBAlbumDownload)
+
+(5) Download publish persion album
+
+Someone is publish persion, for example [Milla Jovovich](https://www.facebook.com/pg/MillaJovovich/photos/?ref=page_internal)
+
+Then go to the facebook -> Photos
+
+[![image5](https://github.com/JasonChiuCC/JCFBAlbumDownload/blob/master/image/image5.png "image5")](https://github.com/JasonChiuCC/JCFBAlbumDownload)
+
+Then press the icon and `Download Public Album` it will starting download
 
 
+## Problem
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Q: Sometime can't download 
+A: You can press `Storage clean` and repress icon, you will see `Storage empty`.
+   Then press `Login Facebook` when display success page, repress icon you will see `Storage exist`.
+   Then you can try to download again.
+   
 
 ## License
 
