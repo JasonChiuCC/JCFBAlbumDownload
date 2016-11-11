@@ -34,7 +34,7 @@ Press the icon to `Login facebook` and you will see the success page, then you c
 
 Go to the facebook `album page`
 
-For example go to (Mark Zuckerberg)[https://www.facebook.com/zuck/photos_albums] -> photos -> albums (In this page,dont scroll down)
+For example go to [Mark Zuckerberg](https://www.facebook.com/zuck/photos_albums) -> photos -> albums (In this page,dont scroll down)
 
 Then press the icon and `Download Personal Album` it will starting download
 
