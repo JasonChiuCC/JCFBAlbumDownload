@@ -10,11 +10,38 @@ If you have any problem when using this extension,please feel free to contact me
 
 ## Usag
 
+First you need to setting chrome's download location and unclick `ask where to save each file before downloading`
+
+[![image3](https://github.com/JasonChiuCC/JCFBAlbumDownload/blob/master/image/image3.png "image3")](https://github.com/JasonChiuCC/JCFBAlbumDownload)
+
 [Download Extension](https://chrome.google.com/webstore/detail/jc-facebook-album-downloa/jeponbopcmlgdnbkdmpnbhggmbhcpojp)
 
 You will see the icon on the top of chrome.
 
 [![image1](https://github.com/JasonChiuCC/JCFBAlbumDownload/blob/master/image/image1.png "image1")](https://github.com/JasonChiuCC/JCFBAlbumDownload)
+
+Press the icon to Login facebook and you will see the success page, then you can close the page.
+
+[![image2](https://github.com/JasonChiuCC/JCFBAlbumDownload/blob/master/image/image2.png "image1")](https://github.com/JasonChiuCC/JCFBAlbumDownload)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
