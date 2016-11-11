@@ -26,7 +26,7 @@ You will see the icon on the top of chrome.
 
 #### (3) Login facebook
 
-Press the icon to Login facebook and you will see the success page, then you can close the page.
+Press the icon to `Login facebook` and you will see the success page, then you can close the page.
 
 [![image2](https://github.com/JasonChiuCC/JCFBAlbumDownload/blob/master/image/image2.png "image1")](https://github.com/JasonChiuCC/JCFBAlbumDownload)
 
