@@ -2,7 +2,7 @@
 
 ## Introduction
 
-JCFBAlbumDownload is a chrome extension.
+[JCFBAlbumDownload](https://chrome.google.com/webstore/detail/jc-facebook-album-downloa/jeponbopcmlgdnbkdmpnbhggmbhcpojp?hl=zh-TW) is a chrome extension.
 
 You can easily use this extension to download Facebook album.
 
